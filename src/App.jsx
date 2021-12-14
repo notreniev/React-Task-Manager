@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import TaskDetails from './components/task/TaskDetails';
 import Home from './components/home/Home';
 
+
 function App(){
     return (
 		<Router>
