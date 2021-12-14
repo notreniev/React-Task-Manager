@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './AddTask.css';
-import Button from './button/Button';
+import Button from '../button/Button';
 
 const AddTask = ({handleTaskAddition}) => {
 
